@@ -13,7 +13,7 @@ const formSerialNumber = document.querySelector('#serial-number')
 const record = document.querySelector('#record')
 const nfcAvailable = document.querySelector('#nfc-available')
 const errorMessage = document.querySelector('#error-message')
-const toggleSoundButton = document.querySelector('#play')
+const toggleSoundButton = document.querySelector('#toggle-sound-button')
 
 const nfcMessage = document.querySelector('#nfc-message')
 const nfcSerialNumber = document.querySelector('#nfc-serial-number')
