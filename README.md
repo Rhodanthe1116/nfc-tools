@@ -1,3 +1,3 @@
 # Web NFC Tools
 
-a simple NFC reader and writer with sound effect.
+a simple web NFC reader and writer with sound effect.
